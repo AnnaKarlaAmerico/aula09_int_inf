@@ -7,10 +7,20 @@ Eu posso dizer que não gosto de pequi kkkkk
 <<<<<<< HEAD
 Qual numero de 0 a 100 voc^e escolhe!
 
+<<<<<<< HEAD
 O que vc está achando do curso ? 
+=======
+26
+>>>>>>> f34705e1e278cc4e74f49bbd96375313281d3edb
 =======
 Qual numero de 0 a 100 voc^e escolhe?
 
 Qual cor voc^e gosta?
+Azul
 
 Voc^e tem animal de estimacao??
+<<<<<<< HEAD
+=======
+Sim, tenho uma cachorrinha.
+>>>>>>> 0283d085989088da17b44716d23d371c27459b33
+>>>>>>> f34705e1e278cc4e74f49bbd96375313281d3edb
