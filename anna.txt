@@ -5,6 +5,7 @@ Me fale uma fruta do cerrado que voc^e goste??
 Eu posso dizer que não gosto de pequi kkkkk
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Qual numero de 0 a 100 voc^e escolhe!
 
 <<<<<<< HEAD
@@ -13,7 +14,10 @@ O que vc está achando do curso ?
 26
 >>>>>>> f34705e1e278cc4e74f49bbd96375313281d3edb
 =======
+=======
+>>>>>>> 2b4248218a20ba9f3ef555ffcdb3744b50fbe316
 Qual numero de 0 a 100 voc^e escolhe?
+26
 
 Qual cor voc^e gosta?
 Azul
@@ -22,5 +26,8 @@ Voc^e tem animal de estimacao??
 <<<<<<< HEAD
 =======
 Sim, tenho uma cachorrinha.
+<<<<<<< HEAD
 >>>>>>> 0283d085989088da17b44716d23d371c27459b33
 >>>>>>> f34705e1e278cc4e74f49bbd96375313281d3edb
+=======
+>>>>>>> 2b4248218a20ba9f3ef555ffcdb3744b50fbe316
