@@ -5,4 +5,6 @@ Candeias
 
 
 Você já era da area da TI??
+Sim
+>>>>>>> f68f67f32339d11e05b70546aca9c9c26e763f0a
 
