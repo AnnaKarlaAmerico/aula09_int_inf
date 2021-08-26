@@ -1,3 +1,7 @@
 Me chamo Israel, tenho 28 ano, sou da Bahia.
 
+<<<<<<< HEAD
 Você já é da area da TI Israel?
+=======
+Qual o nome da cidade?
+>>>>>>> 0283d085989088da17b44716d23d371c27459b33

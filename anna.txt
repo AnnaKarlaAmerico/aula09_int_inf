@@ -4,6 +4,16 @@ Me fale uma fruta do cerrado que voc^e goste??
 
 Eu posso dizer que não gosto de pequi kkkkk
 
+<<<<<<< HEAD
 Qual numero de 0 a 100 voc^e escolhe!
 
 26
+=======
+Qual numero de 0 a 100 voc^e escolhe?
+
+Qual cor voc^e gosta?
+Azul
+
+Voc^e tem animal de estimacao??
+Sim, tenho uma cachorrinha.
+>>>>>>> 0283d085989088da17b44716d23d371c27459b33
